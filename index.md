@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Yaomaczhang's Homepages
+Description: Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/yaomaczhang/yaomaczhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
